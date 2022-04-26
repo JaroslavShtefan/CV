@@ -1,0 +1,235 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;
+}
+
+    /* background-color: yellow; */
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+} 
+
+.main_content {
+    
+    background-color: #FFFFFF;
+    width: 1200px;
+    padding: 60px 85px;
+}
+
+.intro {
+    /* background-color: #8a140e; */
+    /* color: #e0e8f0; */
+    /* padding: 5px 15px; */
+}
+
+.paragraph-title {
+    padding: 0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 10px;
+    margin-bottom: 10px;
+}
+
+.MyName {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 55px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.intro-text {
+    color: #595959;
+    padding-right: 340px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 25px;
+}
+
+.achieve {
+    /* background-color: #51a1d9; */
+    /* margin-top: 100px;
+    /* margin-bottom: 300px; */
+    /* margin-right: 90px; */
+}
+
+.chapter-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.achieve-list {
+    padding-left: 14px;
+}
+
+.achieve-list-item {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    padding-left: 15px;
+}
+
+.main-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.work {
+    /* background-color: #53c0f0; */
+    /* padding: 25px;
+    margin: 100px 90px 300px 60px; */
+}
+
+.duration {
+    padding: 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 2px;
+    color: #A8A8A8;
+    padding-top: 10px;
+}
+
+.duration-devider {
+    color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.work-list {
+    padding: 0;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.work-list-item {
+    padding-left: 10px;
+}
+
+.edu {
+    /* background-color: #e0e8f0; */
+    /* margin: 50px; */
+}
+
+.education-degree {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 0px;
+    padding-bottom: 0px;
+    padding-top: 0;
+}
+
+.paragraph-title-color {
+    /* font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+	background: linear-gradient(330deg, #e05252 0%, #99e052 25%, #52e0e0 50%, #9952e0 75%, #e05252 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color:#FB6D3A;
+    margin-bottom: 5px;
+    margin-top: 30px;
+}
+
+.side {
+    background-color: #1E2939;
+    color: white;
+    width: 350px;
+    font-size: 10px;
+    padding-top: 40px;
+    /* margin-right: 40px; */
+}
+
+.CVpic {
+    width: 350px;
+    margin-bottom: 50px;
+}
+
+.side_text {
+    padding-left: 40px;
+}
+
+.side-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+.contact-name-in {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 12px;
+}
+
+.contact-name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 15px;
+}
+
+.contact-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #8e949c;
+    opacity: 0.5; 
+    text-decoration: none;
+    /* margin-left: 105px; */
+}
+
+.contacts {
+    margin-bottom: 40px;
+}
+
+.skills-li {
+    padding: 0;
+    margin-left: 17px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.essential-skills {
+    margin-bottom: 45px;
+}
+
+.skills-li-text {
+    color: #FFFFFF;
+}
+
+.skills-li-item {
+    color: #FB6D3A;
+}
